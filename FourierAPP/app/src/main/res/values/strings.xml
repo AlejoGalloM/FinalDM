@@ -15,4 +15,6 @@
     <string name="Señal">Que señal desea ingresar</string>
     <string name="señalSonido">Señal proviniente de un sonido</string>
     <string name="señalMovimiento">Señal proviniente de un movimiento</string>
+    <string name="grabaciones">Grabaciones guardadas</string>
+    <string name="grabarMov">Si quiere grabar movimiento, precione en la casilla</string>
 </resources>

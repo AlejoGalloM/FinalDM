@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">FourierAPP</string>
-    <string name="bienvenida">Escoja por favor la opcion que desea</string>
+    <string name="bienvenida">Escoja por favor la opción que desea</string>
     <string name="InsertarSeñal">Insertar Señal</string>
     <string name="SeñalesGuardadas">Ver señales ya guardadas</string>
     <string name="title_activity_insertar_senal">InsertarSenal</string>
@@ -13,10 +13,10 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="Señal">Que señal desea ingresar</string>
-    <string name="señalSonido">Señal proviniente de un sonido</string>
-    <string name="señalMovimiento">Señal proviniente de un movimiento</string>
+    <string name="señalSonido">Señal proveniente de un sonido</string>
+    <string name="señalMovimiento">Señal proveniente de un movimiento</string>
     <string name="grabaciones">Grabaciones guardadas</string>
-    <string name="grabarMov">Si quiere grabar movimiento, precione en la casilla</string>
+    <string name="grabarMov">Si quiere grabar movimiento, presione en la casilla</string>
     <string name="guardadoExitoso">Se ha guardado exitosamente</string>
     <string name="descarte">Audio Eliminado</string>
 </resources>

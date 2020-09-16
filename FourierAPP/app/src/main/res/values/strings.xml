@@ -17,4 +17,6 @@
     <string name="señalMovimiento">Señal proviniente de un movimiento</string>
     <string name="grabaciones">Grabaciones guardadas</string>
     <string name="grabarMov">Si quiere grabar movimiento, precione en la casilla</string>
+    <string name="guardadoExitoso">Se ha guardado exitosamente</string>
+    <string name="descarte">Audio Eliminado</string>
 </resources>

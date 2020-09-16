@@ -51,7 +51,6 @@
         android:layout_marginRight="50dp"
         android:layout_marginBottom="508dp"
         android:gravity="center"
-        android:rotationY="-12"
         android:text="@string/bienvenida"
         android:textColor="#FFFFFF"
         android:textCursorDrawable="@android:drawable/dialog_frame"
